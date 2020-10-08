@@ -1,4 +1,4 @@
-# homebridge-noolite
+# NooLite devices integration into Apple HomeKit via HomeBridge
 
 NooLite plugin (via [USB MTRF-64](https://www.noo.com.by/mtrf-64-usb.html) or [МТRF-64](https://www.noo.com.by/mtrf-64.html) modules) for homebridge
 
